@@ -2,7 +2,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
-  background: #fff8f0;
+  background: #acb86b;
   color: #333;
   overflow-x: hidden;
   scroll-behavior: smooth;
@@ -148,4 +148,5 @@ footer {
 /* Animation Classes */
 .fade-in { animation: fadeIn 1.2s ease; }
 .slide-up { animation: slideUp 1.5s ease; }
+
 .bounce { animation: bounce 2s infinite; }
